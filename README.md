@@ -8,3 +8,6 @@ can text data of products on amazon be used to predict its rating?
 using review ratings to identify inefficient use of the platform? --- health and personal care category's fluctuating rating
 
 analyzing sentiment for information about each sub-category?
+
+
+text_analysis.R is shinyapp
