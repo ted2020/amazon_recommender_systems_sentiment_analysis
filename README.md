@@ -2,6 +2,8 @@
 
 ##### https://ted2020.shinyapps.io/amazon_sa/
 
+##### https://nycdatascience.com/blog/student-works/sentiment-analysis-and-prediction-amazon/
+
  amazon_recommender_systems_sentiment_analysis
  
 how to improve product recommendation on amazon?
