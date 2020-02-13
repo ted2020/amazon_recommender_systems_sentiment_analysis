@@ -4,6 +4,8 @@
 
 ##### https://nycdatascience.com/blog/student-works/sentiment-analysis-and-prediction-amazon/
 
+##### dataset is from: http://cseweb.ucsd.edu/~jmcauley/datasets.html
+
  amazon_recommender_systems_sentiment_analysis
  
 how to improve product recommendation on amazon?
